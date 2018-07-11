@@ -1,8 +1,12 @@
 Rails.application.routes.draw do
   root 'posts#index'
   get 'posts/index'
+<<<<<<< HEAD
   
   ##주석성공
+=======
+  asdasgagagasgasg
+>>>>>>> 7d07e3877aff88732fbce2a0f952e4dd501179ff
 
   # The priority is based upon order of creation: first created -> highest priority.
   # See how all your routes lay out with "rake routes".
